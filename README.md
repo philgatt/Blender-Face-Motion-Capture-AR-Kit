@@ -15,7 +15,7 @@ Before using this addon, you need to ensure that the **Mediapipe** library is in
 
 ### Installation Instructions
 1. Follow this [tutorial video](https://www.youtube.com/watch?v=k1gCIezKA8E) to install **Mediapipe** into Blender's Python environment.
-2. Download a 3D mesh with ARKit shape keys, or use the provided example model. You can get it [here]([https://github.com/user-attachments/assets/3998f09d-0c24-4bbf-9dcd-e7f22dff8724](https://dragonboots.gumroad.com/l/metahumanhead)).
+2. Download a 3D mesh with ARKit shape keys, or use the provided example model. You can get it [here]([https://github.com/user-attachments/assets/3998f09d-0c24-4bbf-9dcd-e7f22dff8724])
 
 ## How to Use
 
