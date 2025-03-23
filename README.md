@@ -3,7 +3,7 @@
 This project enables real-time face motion capture in Blender using the **Mediapipe** library and **ARKit shape keys**. The addon integrates face tracking and motion capture into Blender, making it easier to animate facial expressions on 3D models with ARKit blendshapes.
 
 https://github.com/user-attachments/assets/952328c8-7bb1-40f7-91d8-1f0ae98d7b34
-
+![Example Animation](https://github.com/user-attachments/assets/46b6eaae-f53a-48bb-bc4f-42cc81737b25)
 ## Features
 - **Real-time Face Motion Capture**: Uses the **Mediapipe** library for accurate face tracking and expression capture.
 - **ARKit Shape Keys**: Motion capture data can be applied to a 3D model with ARKit shape keys, allowing for realistic facial animation.
@@ -33,7 +33,6 @@ Before using this addon, you need to ensure that the **Mediapipe** library is in
 3. **Blendshape Smoothing**:
    - For smoother transitions between shapes, enable the **Blendshape smoothing feature** for better results.
 
-   ![Example Animation](https://github.com/user-attachments/assets/46b6eaae-f53a-48bb-bc4f-42cc81737b25)
 
 ## Additional Notes
 
