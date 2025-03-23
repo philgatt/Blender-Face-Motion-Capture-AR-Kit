@@ -2,5 +2,9 @@
 Running Real Time face motioncapture using Mediapipe and AR-Kit Shapekeys
 
 
-https://github.com/user-attachments/assets/0cb4bf46-7d45-4f57-8aad-db45770d41d4
+
+https://github.com/user-attachments/assets/3998f09d-0c24-4bbf-9dcd-e7f22dff8724
+
+
+
 
