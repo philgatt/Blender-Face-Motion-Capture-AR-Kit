@@ -11,7 +11,7 @@ https://github.com/user-attachments/assets/952328c8-7bb1-40f7-91d8-1f0ae98d7b34
 
 ## Prerequisites
 
-Before using this addon, you need to ensure that the **Mediapipe** library is installed in Blender's Python executable. Also, zou need to download the face landmarks (Blazeface) [model](https://ai.google.dev/edge/mediapipe/solutions/vision/face_detector?hl=de#models).
+Before using this addon, you need to ensure that the **Mediapipe** library is installed in Blender's Python executable. Also, you need to download the face landmarks (Blazeface) [model](https://ai.google.dev/edge/mediapipe/solutions/vision/face_detector?hl=de#models).
 
 ### Installation Instructions
 1. Follow this [tutorial video](https://www.youtube.com/watch?v=k1gCIezKA8E) to install **Mediapipe** into Blender's Python environment.
